@@ -129,11 +129,7 @@ func FCFSSchedule(w io.Writer, title string, processes []Process) {
 
 //func SJFPrioritySchedule(w io.Writer, title string, processes []Process) { }
 
-func SJFSchedule(w io.Writer, title string, processes []Process) {
-	var serviceTime = 0
-	var totalWait = 0
-
-}
+//func SJFSchedule(w io.Writer, title string, processes []Process) {}
 
 //func RRSchedule(w io.Writer, title string, processes []Process) { }
 
